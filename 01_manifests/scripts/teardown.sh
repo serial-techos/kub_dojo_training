@@ -1,0 +1,1 @@
+# Teardown script for the manifest exercise environment
